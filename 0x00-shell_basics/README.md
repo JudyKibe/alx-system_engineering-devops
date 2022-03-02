@@ -9,4 +9,5 @@
 8-firstdelete: Deleting Betty from my_first_directory
 9-firstdirdeletion: Deleting my_first_directory from /tmp/
 10-back: Return to previous directory
+11-lists: Lists all the files in the current directory and the parent of the directory  and the boot directori in long format
 
