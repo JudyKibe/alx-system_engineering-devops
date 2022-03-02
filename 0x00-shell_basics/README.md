@@ -6,3 +6,5 @@
 5-listfilesdigit only: Displays current directory contents in long format, with user iD and user ID groups displayed numerically and hidden files
 6-firstdirectory: Creates a directory named my_first_directory in /tmp/
 7-movethatfile: Moe the file from /tmp/ to /tmp/my_first_directory
+8-firstdelete: Deleting Betty from my_first_directory
+
