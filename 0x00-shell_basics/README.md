@@ -16,3 +16,5 @@
 100-lets_move: Moving all files that begin in uppercase to a different directory
 101-clean_emacs : Delete all files in the current working directory that end with ~
 102-tree : Creates welcome directory in current directory
+103-commas: List all files separated by commas
+
