@@ -13,4 +13,5 @@
 12-file_type : Prints the type of the file
 13-symbolic_link : Creating a symbolic link
 14-copy_html : Copying all html files to the parent directory
+100-lets_move: Moving all files that begin in uppercase to a different directory
 
