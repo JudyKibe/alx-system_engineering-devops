@@ -8,4 +8,5 @@
 7-movethatfile: Moe the file from /tmp/ to /tmp/my_first_directory
 8-firstdelete: Deleting Betty from my_first_directory
 9-firstdirdeletion: Deleting my_first_directory from /tmp/
+10-back: Return to previous directory
 
