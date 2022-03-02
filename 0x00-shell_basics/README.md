@@ -11,4 +11,5 @@
 10-back: Return to previous directory
 11-lists: Lists all the files in the current directory and the parent of the directory  and the boot directori in long format
 12-file_type : Prints the type of the file
+13-symbolic_link : Creating a symbolic link
 
