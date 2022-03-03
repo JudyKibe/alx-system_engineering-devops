@@ -6,4 +6,13 @@
 5-execute : Adds execute permission to the owner of the file
 6-multiple_permissions : Adds execute permission to the owner, group owner and read permissions to other users
 7-everybody : executes permission to the owner, group owner and users.
+8-James_Bond : Sets ythe permission of the file to only other users
+8-James_Bond : Sets ythe permission of the file to only other users
+8-James_Bond : Sets ythe permission of the file to only other users
+8-James_Bond : Sets ythe permission of the file to only other users
+8-James_Bond : Sets ythe permission of the file to only other users
+8-James_Bond : Sets ythe permission of the file to only other users
+8-James_Bond : Sets ythe permission of the file to only other users
+8-James_Bond : Sets ythe permission of the file to only other users
+8-James_Bond : Sets ythe permission of the file to only other users
 
