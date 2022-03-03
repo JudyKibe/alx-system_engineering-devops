@@ -13,4 +13,5 @@
 12-directory_permissions : Creates a directory with 751 permissions
 13-change_group : Change the group owner of a file
 100-change_owner_and_group : Change the owner and group owner of all the files in the directory
+101-symbolic_link_permissions : Changes the owner and group owner of _hello to vincent and staff respectively.
 
