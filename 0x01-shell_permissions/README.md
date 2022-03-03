@@ -11,5 +11,6 @@
 10-mirror_permissions : sets the mode of the file to mirror Oleh's mode
 11-directoriies_permissions : Adds execute permission to all subdirectories
 12-directory_permissions : Creates a directory with 751 permissions
-13-change_group : Change he group owner of a file
+13-change_group : Change the group owner of a file
+100-change_owner_and_group : Change the owner and group owner of all the files in the directory
 
