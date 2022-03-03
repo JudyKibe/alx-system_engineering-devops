@@ -10,4 +10,5 @@
 9-John_Doe : Sets the mode of the file to group owners read and execution and all other users write and execute
 10-mirror_permissions : sets the mode of the file to mirror Oleh's mode
 11-directoriies_permissions : Adds execute permission to all subdirectories
+12-directory_permissions : Creates a directory with 751 permissions
 
