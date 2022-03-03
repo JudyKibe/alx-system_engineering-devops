@@ -9,4 +9,5 @@
 8-James_Bond : Sets ythe permission of the file to only other users
 9-John_Doe : Sets the mode of the file to group owners read and execution and all other users write and execute
 10-mirror_permissions : sets the mode of the file to mirror Oleh's mode
+11-directoriies_permissions : Adds execute permission to all subdirectories
 
